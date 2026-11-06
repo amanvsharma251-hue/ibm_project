@@ -1,0 +1,25 @@
+# ---- Credentials (NEVER commit these) ----
+.env
+config.env
+*.env
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ---- ChromaDB vector store (auto-rebuilt) ----
+chroma_db/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE ----
+.vscode/
+.idea/

@@ -1,0 +1,129 @@
+COURSES & PROGRAMS OFFERED - SPRINGFIELD INSTITUTE OF TECHNOLOGY
+=================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A. UNDERGRADUATE ENGINEERING (B.Tech — 4 Years)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. B.Tech Computer Science Engineering (CSE)
+   Seats: 120 | Accreditation: NBA, NAAC A+
+   Specializations: AI & Data Science, Cybersecurity, Cloud Computing
+   Key Subjects: Data Structures, OS, DBMS, Algorithms, ML, DevOps
+   Career Paths: Software Engineer, Data Scientist, AI Researcher
+   Avg Package: ₹8–12 LPA | Highest: ₹42 LPA
+
+2. B.Tech Artificial Intelligence & Machine Learning (AI & ML)
+   Seats: 60 | (NEW for 2024)
+   Key Subjects: Deep Learning, NLP, Computer Vision, MLOps, GenAI
+   Career Paths: ML Engineer, AI Researcher, LLM Developer
+   Avg Package: ₹10–15 LPA | Highest: ₹55 LPA
+
+3. B.Tech Electronics & Communication Engineering (ECE)
+   Seats: 90
+   Specializations: VLSI, Embedded Systems, IoT
+   Key Subjects: Signals, Microprocessors, FPGA, Wireless Comm
+   Avg Package: ₹6–9 LPA
+
+4. B.Tech Mechanical Engineering
+   Seats: 90
+   Specializations: Manufacturing, Thermal, CAD/CAM
+   Avg Package: ₹5–8 LPA
+
+5. B.Tech Civil Engineering
+   Seats: 60
+   Specializations: Structural, Environmental, Urban Planning
+   Avg Package: ₹4.5–7 LPA
+
+6. B.Tech Information Technology (IT)
+   Seats: 60
+   Key Subjects: Web Tech, Networks, Cybersecurity, Cloud
+   Avg Package: ₹7–10 LPA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+B. UNDERGRADUATE MANAGEMENT & COMMERCE (3 Years)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. BBA (Bachelor of Business Administration)
+   Seats: 120
+   Specializations: Marketing, Finance, HR, Entrepreneurship
+   Avg Package: ₹4–6 LPA
+
+2. B.Com (Hons)
+   Seats: 120
+   Focus: Accounting, Taxation, Auditing, Corporate Law
+   Avg Package: ₹3.5–5 LPA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+C. UNDERGRADUATE SCIENCE & TECHNOLOGY (3 Years)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. BCA (Bachelor of Computer Applications)
+   Seats: 90
+   Key Subjects: Programming, Web Dev, Database, Networking
+   Avg Package: ₹4–7 LPA
+
+2. B.Sc Computer Science
+   Seats: 60
+   Avg Package: ₹3.5–6 LPA
+
+3. B.Sc Data Science
+   Seats: 60 | (NEW for 2024)
+   Key Subjects: Statistics, Python, ML, Tableau, Big Data
+   Avg Package: ₹5–8 LPA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+D. POSTGRADUATE PROGRAMS (2 Years)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. MBA (Master of Business Administration)
+   Seats: 120
+   Specializations: Finance, Marketing, HR, Operations, Business Analytics
+   Entrance: CAT / MAT / GMAT / XAT (min 75 percentile)
+   Avg Package: ₹10–16 LPA
+
+2. MBA Executive (Weekend / Blended)
+   Seats: 40 | Min 3 years work experience required
+   Duration: 2 Years (Weekend classes)
+   Avg Package (Post): ₹15–22 LPA
+
+3. M.Tech Computer Science
+   Seats: 30 | Entrance: GATE (CSE)
+   Specializations: AI, Distributed Systems, Cybersecurity
+
+4. M.Tech ECE
+   Seats: 20 | Entrance: GATE (ECE)
+   Specializations: VLSI, Signal Processing
+
+5. MCA (Master of Computer Applications)
+   Seats: 60 | Entrance: NIMCET / SITEE MCA
+   Duration: 2 Years
+
+6. M.Sc Data Science
+   Seats: 40 | (NEW for 2024)
+   Key Subjects: Advanced ML, Big Data, GenAI, Research Methodology
+
+7. M.Sc Computer Science
+   Seats: 30
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+E. DOCTORAL PROGRAMS (Ph.D)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ph.D programs offered in: CSE, ECE, Management, Physics, Mathematics
+Duration: 3–5 years (Full-time) / 4–6 years (Part-time)
+Eligibility: Master's degree with 60% + UGC-NET / GATE / institute test
+Fellowship: JRF-qualified students receive ₹31,000/month stipend
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+F. CERTIFICATE & DIPLOMA PROGRAMS (Short-term)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Program                          Duration   Fee
+-------------------------------  ---------  --------
+PG Diploma in AI & ML            6 months   ₹45,000
+PG Diploma in Data Science       6 months   ₹40,000
+Certificate in Cloud Computing   3 months   ₹20,000
+Certificate in Cybersecurity     3 months   ₹18,000
+Certificate in Full Stack Dev    4 months   ₹22,000
+
+For course counseling: counseling@sit.edu.in | Ext: 2100
