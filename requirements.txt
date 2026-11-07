@@ -2,10 +2,12 @@
 langchain==0.2.16
 langchain-community==0.2.16
 langchain-ibm==0.1.12
+langchain-text-splitters
+langchain-huggingface
 
-# IBM Watson / watsonx.ai SDK
-ibm-watsonx-ai==1.1.2
-ibm-cloud-sdk-core==3.18.0
+# IBM Watson / watsonx.ai SDK (no version pin — let pip pick a pre-built wheel)
+ibm-watsonx-ai
+ibm-cloud-sdk-core
 
 # Vector store & embeddings
 chromadb==0.5.5
@@ -19,5 +21,4 @@ streamlit==1.38.0
 
 # Utilities
 python-dotenv==1.0.1
-tiktoken==0.7.0
 numpy==1.26.4

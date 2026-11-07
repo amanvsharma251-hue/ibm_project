@@ -20,6 +20,14 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 
 load_dotenv("config.env")
 
+# On Streamlit Cloud, load secrets into env vars
+try:
+    import streamlit as _st
+    for _k, _v in _st.secrets.items():
+        os.environ.setdefault(_k, str(_v))
+except Exception:
+    pass
+
 from agent import AdmissionChatSession, answer_query
 from rag_engine import get_or_build_vector_store
 
