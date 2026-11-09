@@ -1,7 +1,5 @@
 FEE STRUCTURE - ACADEMIC YEAR 2024-2025
 =========================================
-Springfield Institute of Technology (SIT)
-
 All amounts are in Indian Rupees (INR) unless otherwise stated.
 Fees are subject to revision each academic year; confirm at time of admission.
 
@@ -64,7 +62,7 @@ Merit Scholarship (Bronze)          80%–84% in 10+2           25% tuition waiv
 SC/ST Fee Concession                Valid certificate          80% tuition waiver
 EWS Scholarship                     Family income < ₹8L/yr    50% tuition waiver
 Sports Excellence Scholarship       State/National player      50% tuition waiver
-Sibling Concession                  Sibling enrolled at SIT    10% tuition waiver
+Sibling Concession                  Sibling enrolled          10% tuition waiver
 Single Parent Scholarship           Documentary proof          25% tuition waiver
 
 Note: Scholarships are awarded for the first year based on admission scores.
@@ -81,8 +79,8 @@ Fees are payable in two installments per year:
 Late payment attracts a fine of ₹100 per day after due date.
 Students with unpaid dues will not be permitted to sit examinations.
 
-Payment Modes: Online portal (UPI / Net Banking / Debit-Credit Card), DD in favour of
-               "Springfield Institute of Technology", payable at New Delhi.
+Payment Modes: Online portal (UPI / Net Banking / Debit-Credit Card),
+               DD in favour of the institution.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 F. INTERNATIONAL STUDENT FEES (in USD)
@@ -96,6 +94,6 @@ M.Tech              $ 3,800
 MCA / M.Sc          $ 3,200
 
 International students must also pay a one-time International Student Services Fee of $500.
-Health insurance is mandatory: $350/year (available through SIT or equivalent coverage).
+Health insurance is mandatory: $350/year.
 
-Contact Accounts Office: fees@sit.edu.in | Ext: 2210
+Contact Accounts Office for fee-related queries.

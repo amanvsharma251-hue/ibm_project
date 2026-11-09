@@ -3,8 +3,8 @@ COLLEGE ADMISSION POLICY - ACADEMIC YEAR 2024-2025
 
 1. INTRODUCTION
 ---------------
-Springfield Institute of Technology (SIT) is committed to selecting students who demonstrate
-academic excellence, leadership potential, and a genuine passion for their chosen field.
+The Institution is committed to selecting students who demonstrate academic excellence,
+leadership potential, and a genuine passion for their chosen field.
 Admissions are merit-based and inclusive. We welcome applications from all backgrounds.
 
 2. ADMISSION TYPES
@@ -32,12 +32,12 @@ e) International Admission: Additional requirements apply (see Section 8)
 ------------------------------------
 Program             Accepted Tests
 -----------         --------------------------------
-B.Tech / B.E.       JEE Main, SAT, or SIT Entrance Exam (SITEE)
+B.Tech / B.E.       JEE Main, SAT, or Institution Entrance Exam
 MBA / PGDM          CAT / MAT / GMAT / XAT (any one)
 M.Tech              GATE (mandatory, no substitutes)
-MCA                 NIMCET or SIT MCA Entrance Test
-BCA / BBA           SIT Entrance Exam (SITEE)
-B.Sc / M.Sc         SITEE or State Board Merit List
+MCA                 NIMCET or Institution MCA Entrance Test
+BCA / BBA           Institution Entrance Exam
+B.Sc / M.Sc         Institution Entrance Exam or State Board Merit List
 
 Minimum Qualifying Scores:
   JEE Main Percentile : ≥ 70
@@ -73,18 +73,18 @@ Sports / NCC    2% (institution level)
 --------------------------
 - Recognized equivalent of 10+2 with minimum 65% aggregate
 - English proficiency: IELTS ≥ 6.0 or TOEFL ≥ 80 or PTE ≥ 58
-- Valid passport and student visa (Form DS-160 / Indian Student Visa)
+- Valid passport and student visa
 - Equivalency certificate from AIU (Association of Indian Universities)
 - SAT / ACT scores required for undergraduate programs
 - Medical insurance mandatory throughout the program duration
 
 9. ADMISSION PROCESS STEPS
 ----------------------------
-Step 1 : Register on the SIT Admissions Portal (admissions.sit.edu.in)
+Step 1 : Register on the Admissions Portal
 Step 2 : Fill and submit the online application form
 Step 3 : Pay the non-refundable application fee
 Step 4 : Upload all required documents
-Step 5 : Appear for SITEE / submit national entrance exam scorecard
+Step 5 : Appear for Entrance Exam / submit national entrance exam scorecard
 Step 6 : Attend Personal Interview (PI) if shortlisted
 Step 7 : Receive Offer Letter via email/portal
 Step 8 : Accept offer and pay seat confirmation fee within 7 days
@@ -111,4 +111,4 @@ Students may appeal admission decisions within 15 days of result publication.
 Appeals must be submitted in writing to the Dean of Admissions with supporting documents.
 The Admissions Review Committee meets bi-monthly; decisions are final and binding.
 
-Contact: admissions@sit.edu.in | +91-98765-43210 | Mon–Fri, 9 AM – 5 PM IST
+Contact: admissions office | Mon–Fri, 9 AM – 5 PM IST

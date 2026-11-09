@@ -1,13 +1,12 @@
 FREQUENTLY ASKED QUESTIONS (FAQs) - COLLEGE ADMISSIONS
 ========================================================
-Springfield Institute of Technology (SIT)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SECTION 1: APPLICATION PROCESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Q1: How do I apply for admission to SIT?
-A: Visit admissions.sit.edu.in, click "Apply Now", register with your email,
+Q1: How do I apply for admission?
+A: Visit the Admissions Portal, click "Apply Now", register with your email,
    fill the online form, upload documents, and pay the ₹1,000 application fee.
    You will receive a confirmation email with your Application ID.
 
@@ -16,13 +15,13 @@ A: Yes. You can apply to up to 3 programs in a single application form. Each
    program selection is reviewed independently based on eligibility.
 
 Q3: Is there an offline application process?
-A: No. SIT accepts applications exclusively through the online portal. Offline
-   forms are not accepted.
+A: No. Applications are accepted exclusively through the online portal.
+   Offline forms are not accepted.
 
 Q4: Can I edit my application after submission?
 A: Minor edits (contact info, address) can be made up to 7 days after submission.
    Core details like program choice and qualifying exam scores cannot be edited
-   after payment. Contact admissions@sit.edu.in for special cases.
+   after payment. Contact the admissions office for special cases.
 
 Q5: What is the application fee and is it refundable?
 A: The application fee is ₹1,000 (non-refundable). International students pay $25.
@@ -44,12 +43,12 @@ A: Yes, 68% meets the minimum 60% requirement. Your final admission depends on
    your entrance exam score and merit rank.
 
 Q9: Which entrance exams are accepted for B.Tech?
-A: JEE Main (min 70 percentile), SAT (min 1100), or SIT's own entrance exam
-   (SITEE). You only need to qualify ONE of these.
+A: JEE Main (min 70 percentile), SAT (min 1100), or the Institution Entrance Exam.
+   You only need to qualify ONE of these.
 
-Q10: When is the SITEE exam conducted?
-A: SITEE is offered in two slots: March 22 and April 19, 2025. Register via the
-   admission portal. Exam fee: ₹500.
+Q10: When is the entrance exam conducted?
+A: The entrance exam is offered in two slots: March 22 and April 19, 2025.
+   Register via the admission portal. Exam fee: ₹500.
 
 Q11: I have a gap year after 12th. Will that affect my admission?
 A: A gap year does not automatically disqualify you. You must provide a Gap
@@ -80,7 +79,7 @@ A: Yes. You can apply with your Class 11 marks or predicted grades. You must
 Q16: Do I need to submit original documents?
 A: Attested photocopies are accepted during application. Original documents
    must be presented during physical verification at campus (July 20, 2025).
-   Originals are NOT retained by the college.
+   Originals are NOT retained by the institution.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SECTION 4: FEES & PAYMENTS
@@ -113,17 +112,17 @@ A: Full refund (minus ₹1,000 processing fee) if withdrawn before classes start
 SECTION 5: COURSES & CAMPUS LIFE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Q22: What is the average placement package at SIT?
+Q22: What is the average placement package?
 A: Average packages vary by program:
    B.Tech CSE: ₹8–12 LPA | B.Tech AI & ML: ₹10–15 LPA | MBA: ₹10–16 LPA.
    Highest package recorded: ₹55 LPA (AI & ML, 2024 batch).
 
-Q23: Does SIT offer hostel facilities?
+Q23: Does the institution offer hostel facilities?
 A: Yes. Separate hostels for male and female students are available on campus.
    AC and Non-AC rooms available. Apply for hostel during the admission process.
 
 Q24: Is there a placement guarantee?
-A: SIT does not offer a placement guarantee. However, the placement rate for
+A: There is no placement guarantee. However, the placement rate for
    CSE and MBA programs has been above 92% for the past 5 years.
 
 Q25: Are lateral entry admissions available?
@@ -139,23 +138,22 @@ Q26: What English proficiency score is required for international students?
 A: IELTS ≥ 6.0 OR TOEFL ≥ 80 OR PTE Academic ≥ 58. Students from English-
    medium schools in English-speaking countries are exempt.
 
-Q27: Does SIT provide visa assistance?
-A: Yes. The International Students Office (ISO) assists with student visa
-   documentation. Contact iso@sit.edu.in well before the June 1 deadline.
+Q27: Is visa assistance provided?
+A: Yes. The International Students Office assists with student visa
+   documentation. Contact the admissions office well before the June 1 deadline.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SECTION 7: CONTACT & SUPPORT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Q28: How can I contact the admissions office?
-A: Email: admissions@sit.edu.in | Phone: +91-98765-43210
-   Office Hours: Monday–Friday, 9 AM – 5 PM IST
-   Walk-in: Admissions Block, Room 101, SIT Main Campus
+A: Contact the admissions office via the official portal or visit in person.
+   Office Hours: Monday–Friday, 9 AM – 5 PM IST.
 
 Q29: What if I have a grievance about the admission process?
 A: Submit a written complaint to the Dean of Admissions within 15 days of the
    result. The Admissions Review Committee meets bi-monthly and decisions are final.
 
 Q30: Where can I check my application status?
-A: Log in to admissions.sit.edu.in with your Application ID and password.
+A: Log in to the Admissions Portal with your Application ID and password.
    Status updates are also sent via SMS and email at each stage.

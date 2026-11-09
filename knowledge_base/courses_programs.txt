@@ -1,5 +1,5 @@
-COURSES & PROGRAMS OFFERED - SPRINGFIELD INSTITUTE OF TECHNOLOGY
-=================================================================
+COURSES & PROGRAMS OFFERED
+==========================
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 A. UNDERGRADUATE ENGINEERING (B.Tech — 4 Years)
@@ -95,7 +95,7 @@ D. POSTGRADUATE PROGRAMS (2 Years)
    Specializations: VLSI, Signal Processing
 
 5. MCA (Master of Computer Applications)
-   Seats: 60 | Entrance: NIMCET / SITEE MCA
+   Seats: 60 | Entrance: NIMCET / Institution MCA Entrance Test
    Duration: 2 Years
 
 6. M.Sc Data Science
@@ -126,4 +126,4 @@ Certificate in Cloud Computing   3 months   ₹20,000
 Certificate in Cybersecurity     3 months   ₹18,000
 Certificate in Full Stack Dev    4 months   ₹22,000
 
-For course counseling: counseling@sit.edu.in | Ext: 2100
+For course counseling contact the admissions office.

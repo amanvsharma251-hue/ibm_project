@@ -154,7 +154,7 @@ def init_vector_store():
 st.markdown(f"""
 <div class="main-header">
     <h1>🎓 {APP_TITLE}</h1>
-    <p>Springfield Institute of Technology — Powered by IBM Granite on watsonx.ai</p>
+    <p>Powered by IBM Granite on IBM watsonx.ai — Your AI-Powered Admission Guide</p>
     <span class="ibm-badge">IBM Granite · watsonx.ai · RAG</span>
 </div>
 """, unsafe_allow_html=True)
@@ -210,9 +210,8 @@ with st.sidebar:
     st.markdown("### 📞 Contact")
     st.markdown("""
     **Admissions Office**
-    📧 admissions@sit.edu.in
-    📞 +91-98765-43210
     🕘 Mon–Fri, 9 AM – 5 PM IST
+    📋 Contact via the official admissions portal
     """)
 
 
@@ -277,7 +276,7 @@ with chat_container:
 
 if not st.session_state.messages:
     st.info(
-        "👋 Hello! I'm your College Admission AI Assistant for Springfield Institute of Technology.\n\n"
+        "👋 Hello! I'm your College Admission AI Assistant.\n\n"
         "Ask me anything about admissions, courses, fees, deadlines, or scholarships!"
     )
 
@@ -318,7 +317,7 @@ if user_input:
 st.markdown("---")
 st.markdown("""
 <div style="text-align:center; font-size:0.8rem; color:#888; padding: 0.5rem 0;">
-    🎓 Springfield Institute of Technology &nbsp;|&nbsp;
+    🎓 College Admission AI Assistant &nbsp;|&nbsp;
     Powered by <strong>IBM Granite</strong> on <strong>IBM watsonx.ai</strong> &nbsp;|&nbsp;
     Built with LangChain &amp; Streamlit
 </div>
