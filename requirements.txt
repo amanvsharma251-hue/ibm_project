@@ -5,13 +5,14 @@ langchain-ibm==0.1.12
 langchain-text-splitters
 langchain-huggingface
 
-# IBM Watson / watsonx.ai SDK (no version pin — let pip pick a pre-built wheel)
+# IBM Watson / watsonx.ai SDK (no version pin — pre-built wheels)
 ibm-watsonx-ai
 ibm-cloud-sdk-core
 
 # Vector store & embeddings
 chromadb==0.5.5
 sentence-transformers==3.0.1
+Pillow==10.4.0
 
 # Document loaders
 pypdf==4.3.1
