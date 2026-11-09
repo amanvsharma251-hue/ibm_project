@@ -12,7 +12,9 @@ ibm-cloud-sdk-core
 # Vector store & embeddings
 chromadb==0.5.5
 sentence-transformers==3.0.1
-Pillow==10.4.0
+
+# Pillow — explicit pre-built wheel, no compilation
+Pillow==10.3.0
 
 # Document loaders
 pypdf==4.3.1
